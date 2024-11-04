@@ -1,0 +1,32 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@chunge16/vitepress-blogs-theme": "^0.2.4",
+    "eslint": "^8.48.0",
+    "eslint-plugin-vue": "^9.17.0",
+    "husky": "^8.0.0",
+    "lint-staged": "^14.0.1",
+    "vitepress": "^1.4.1",
+    "vue": "^3.3.4",
+    "vue-eslint-parser": "^9.3.1",
+    "@jcamp/tailwindcss-plugin-icons": "^1.2.1",
+    "@iconify-json/mdi": "^0.6.2"
+  },
+  "postcss": {
+    "plugins": {
+      "tailwindcss": {},
+      "autoprefixer": {}
+    }
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:dev4": "vitepress dev --host 0.0.0.0",
+    "docs:dev6": "vitepress dev --host ::",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "@iconify-json/mdi": "^1.2.1",
+    "@jcamp/tailwindcss-plugin-icons": "^0.6.2"
+  }
+}
