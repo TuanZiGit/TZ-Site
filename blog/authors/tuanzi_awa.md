@@ -1,6 +1,6 @@
 ---
 name: '团子'
-avatar: 'https://cdn-icons-png.flaticon.com/64/149/149071.png'
+avatar: 'https://cdn.jsdelivr.net/gh/TuanZiGit/jsDelivrRepo@master/b_8f2d99c6305c525a46a48e47767ad9bc.jpg'
 ---
 
 ## 关于

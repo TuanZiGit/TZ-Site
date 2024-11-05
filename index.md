@@ -15,3 +15,4 @@ hero:
       link: /ct
 ---
 
+本站所有内容使用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) 协议，详情见 [关于本站协议](/license.md)
